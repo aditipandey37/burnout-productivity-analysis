@@ -13,4 +13,4 @@ An analytical study of employee burnout and its impact on productivity, integrat
 - CSV / Excel datasets
 
 ## Dataset Source
-Dataset: Kaggle (public dataset used for educational analysis)
+Kaggle (public dataset used for educational analysis)
