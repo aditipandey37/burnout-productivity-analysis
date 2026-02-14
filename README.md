@@ -11,3 +11,6 @@ An analytical study of employee burnout and its impact on productivity, integrat
 - Power BI
 - Jupyter Notebook
 - CSV / Excel datasets
+
+## Dataset Source
+Dataset: Kaggle (public dataset used for educational analysis)
